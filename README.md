@@ -1,6 +1,6 @@
 # 6thmorpethscouts - info for editors
 
-## Content 
+## Editing content 
 The site uses a 'content management system' called Netlify CMS. You can edit the content easily through Netlify (which then pushes the changes to this Github repository) or edit the files directly in Github. Netlify gives you a user-friendly interface for editing and means you don't really need to know a lot of Markdown.
 
 **Login link for editors: https://6thmorpethscouts.netlify.app/admin**
