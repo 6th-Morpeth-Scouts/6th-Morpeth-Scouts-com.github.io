@@ -4,4 +4,4 @@ layout: blank
 ---
 If you have any questions or would like further information please contact.
 
-graham.langston@northumberlandscouts.org.uk
+[graham.langston@northumberlandscouts.org.uk](graham.langston@northumberlandscouts.org.uk)
