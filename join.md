@@ -15,5 +15,5 @@ And it can help you too. Share your skills and gain some new ones. Volunteers co
 We can offer ongoing training, awards and recognition.
 
 Please contact us to find out more:
-
+<6thmorpethgsl@gmail.com>
 <graham.langston@northumberlandscouts.org.uk>
